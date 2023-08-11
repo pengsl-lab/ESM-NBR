@@ -5,7 +5,6 @@ The data, supplementary information and standalone program of ESM-NBR.
 - Linux system (suggested CentOS 7)
  # Running
  ```
-#
  $ python prediction.py your_fasta_path device save_dir model_type split_len dna_threshold rna_threshold
 ```
 - your_fasta_path: path of input protein sequences in fasta format. (support multi-sequence)
