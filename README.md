@@ -15,7 +15,7 @@ The data, supplementary information and standalone program of ESM-NBR.
 - dna_threshold: 0.8 is recommended.
 - rna_threshold: 0.1 is recommended.
 
-# note
+# Note
 - It will take some time to download the ESM2 model for the first time, so please be patient.
 
 # Reference
