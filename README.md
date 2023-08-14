@@ -19,4 +19,4 @@ The data, supplementary information and standalone program of ESM-NBR.
 - It will take some time to download the ESM2 model for the first time, so please be patient.
 
 # Reference
-[1] Wenwu Zeng, Dafeng Lv, and Shaoliang Peng. ESM-NBR: fast and accurate nucleic acid-binding residue prediction via protein language model feature representation and multi-task learning. Submitted.
+[1] Wenwu Zeng, Dafeng Lv, Wenjuan Liu, and Shaoliang Peng. ESM-NBR: fast and accurate nucleic acid-binding residue prediction via protein language model feature representation and multi-task learning. Submitted.
